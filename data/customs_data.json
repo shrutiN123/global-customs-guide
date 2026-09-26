@@ -1,1 +1,67 @@
+{
+    "India": {
+        "currency": "Indian Rupee (INR)",
+        "duty_free_allowance": "Varies by passenger category and item",
+        "allowed_items": [
+            "Personal clothing",
+            "Personal electronics",
+            "Books"
+        ],
+        "restricted_items": [
+            "Certain medicines",
+            "Firearms",
+            "Wildlife products"
+        ],
+        "prohibited_items": [
+            "Narcotic drugs",
+            "Counterfeit currency",
+            "Illegal wildlife products"
+        ],
+        "customs_duty": "Depends on the type and value of goods",
+        "notes": "Travelers should check the latest Indian customs regulations before travel."
+    },
 
+    "United States": {
+        "currency": "US Dollar (USD)",
+        "duty_free_allowance": "Depends on traveler status and type of goods",
+        "allowed_items": [
+            "Personal clothing",
+            "Personal electronics",
+            "Books"
+        ],
+        "restricted_items": [
+            "Certain food products",
+            "Medicines",
+            "Agricultural products"
+        ],
+        "prohibited_items": [
+            "Illegal drugs",
+            "Certain weapons",
+            "Counterfeit goods"
+        ],
+        "customs_duty": "Depends on the classification and value of the goods",
+        "notes": "Travelers should check current U.S. Customs and Border Protection rules."
+    },
+
+    "Japan": {
+        "currency": "Japanese Yen (JPY)",
+        "duty_free_allowance": "Subject to Japanese customs allowances",
+        "allowed_items": [
+            "Personal clothing",
+            "Personal electronics",
+            "Books"
+        ],
+        "restricted_items": [
+            "Certain medicines",
+            "Food products",
+            "Plants and animals"
+        ],
+        "prohibited_items": [
+            "Illegal drugs",
+            "Firearms",
+            "Certain biological materials"
+        ],
+        "customs_duty": "Depends on the type and value of the goods",
+        "notes": "Travelers should check current Japanese customs regulations."
+    }
+}
